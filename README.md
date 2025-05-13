@@ -17,7 +17,7 @@ The complete, playable build of **TacticalTreats** is available in the [Releases
 * **Packages/**: Unity package dependencies.
 * **ProjectSettings/**: Unity project settings.
 
-## Contributing
+## Contribution
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
 ## Credits
